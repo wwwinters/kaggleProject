@@ -1,0 +1,13 @@
+.ipynb_checkpoints/*
+data/*
+images/*
+*.tif
+*.jpg
+*.mkv
+*.webm
+*.mpeg
+*.csv
+*.sqlite
+*.zip
+*.keras
+
