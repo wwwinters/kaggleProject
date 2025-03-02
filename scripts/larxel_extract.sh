@@ -2,10 +2,10 @@
 
 ###############################################################################
 #
-# Title:  		Buda Extract
+# Title:  		Larxel Extract
 #
-# Purpose:		Copy MRI images from Mateusz Buda's repository to this
-#				this project's image directory		
+# Purpose:		Copy MRI images from Larxel's repository to this
+#				   this project's image directory		
 #
 # Author:   	Wiley Winters
 #

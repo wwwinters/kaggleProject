@@ -4,8 +4,6 @@
 #
 # Title:  		Create Testset
 #
-# Version:      0.1
-#
 # Purpose:		Randomly select 20% of files from the image classes and
 #       		separate them into their own directory structure.  This
 #				will be used during model development to test its
@@ -30,15 +28,14 @@ import numpy as np
 #
 # Declare global variables
 #
-base_dir = '/home/wiley/regis/dataScience/kaggleProject/images/data'
+base_dir = '/home/wiley/regis/dataScience/msds686/week7/kaggleProject/images'
 trn_dir = base_dir+'/training/'
 tst_dst = base_dir+'/testing/'
 
 #
 # Do the work
 #
-
-for category in ('negative', 'positive'):
+for category in ('glioma', 'meningioma', 'notumor', 'pituitary'):
     if not os.path.exists(tst_dst+category):
         os.makedirs(tst_dst+category)
     else:
