@@ -1,5 +1,5 @@
 # Convolutional Neural Network (CNN) Binary Brain Tumor Classification
-<h3>This repository contains the research articles, scripts, jupyter notebooks, and other resources used in the author's *Kaggle* project</h3>
+<h3>This repository contains the research articles, scripts, jupyter notebooks, and other resources used in the author's <b>Kaggle</b> project</h3>
 
 ### Dataset Description
 The dataset used in this project is a combination of the following repositories:
