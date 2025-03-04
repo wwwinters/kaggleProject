@@ -2,7 +2,6 @@ notebooks/.ipynb_checkpoints/*
 data/*
 images/*
 *.tif
-*.jpg
 *.mkv
 *.webm
 *.mpeg
