@@ -5,8 +5,8 @@
 ### Dataset Description
 The dataset used in this development effort is a combination of the following two data repositories and contains a total of 5,100 images.
 - [Brain Tumor Dataset by Viradiya](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset)
-- [Brain Tumor Classification (MRI) by Bhuvaji](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
-Here is a breakdown of the images used for training and testing
+- [Brain Tumor Classification (MRI) by Bhuvaji](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)</p>
+Here is a breakdown of the images used for training and testing.  The datasets can be found on [Google Drive](https://drive.google.com/drive/folders/1o98tM0BlMP5Y4YcHaSkTKVWMAo7NpU0F?usp=drive_link)</p>
 
 | Class    | Training | Testing | Total |
 |----------|----------|---------|-------|
